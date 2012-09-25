@@ -1,6 +1,6 @@
 {
   "name": "geisha",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Exports the hash for \".git/HEAD\", relative to the top-level module",
   "keywords": ["git", "HEAD", "ref", "sha", "sha1", "hash"],
   "author": "Erik Lundin",
