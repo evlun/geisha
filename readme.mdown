@@ -13,3 +13,7 @@ require('geisha'); // -> "df13c2005619483b0c6e41507a1a3f97393a4e11"
 ```
 npm install geisha
 ```
+
+### License
+
+Public domain.
