@@ -1,0 +1,15 @@
+**geisha** (or gitsha if you squint) exports a string which *should* be equal
+to the output of running `git rev-parse HEAD` in the top-level module's
+directory. Exports `undefined` if no git repository could be found.
+
+### Usage
+
+```javascript
+require('geisha'); // -> "df13c2005619483b0c6e41507a1a3f97393a4e11"
+```
+
+### Installation
+
+```
+npm install geisha
+```
