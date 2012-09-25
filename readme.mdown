@@ -1,6 +1,6 @@
 **geisha** (or gitsha if you squint) exports a string which *should* be equal
 to the output of running `git rev-parse HEAD` in the top-level module's
-directory. Exports `undefined` if no git repository could be found.
+directory, or `undefined` if no git repository could be found.
 
 ### Usage
 
