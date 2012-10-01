@@ -4,6 +4,6 @@
   "description": "Exports the hash of the commit referenced by \".git/HEAD\", relative to the top-level module",
   "keywords": ["git", "HEAD", "ref", "sha", "sha1", "hash"],
   "author": "Erik Lundin",
-  "homepage": "https://github.com/mjor/geisha",
+  "homepage": "https://github.com/evlun/geisha",
   "main": "geisha.js"
 }
